@@ -1,0 +1,8 @@
+
+o
+java:S6204	"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8…Ô¿àã1
+c
+java:S1612"FReplace this lambda with method reference 'Integer.class::isInstance'.(³Šý¡8”Ô¿àã1
+G	java:S106"+Replace this use of System.out by a logger.(€—ñ¿8šÔ¿àã1
+L	java:S106"+Replace this use of System.out by a logger.(¬ä‰Áÿÿÿÿÿ8 Ô¿àã1
+G	java:S106"+Replace this use of System.out by a logger.(ç‹°Û8¢Ô¿àã1
